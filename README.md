@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradipchaurel" alt="pradipchaurel" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chaurel_pradip" target="blank"><img src="https://img.shields.io/twitter/follow/@chaurel_pradip?logo=twitter&style=for-the-badge" alt="@chaurel_pradip" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chaurel_pradip" target="blank"><img src="https://img.shields.io/twitter/follow/@chaurel_pradip logo=twitter&style=for-the-badge" alt="@chaurel_pradip" /></a> </p>
 
 - 🔭 I’m currently working on **Android Development**
 
