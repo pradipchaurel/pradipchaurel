@@ -1,7 +1,7 @@
+<img align="centre" alt="coding" height="400" width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EUMrImeKYWlSjFETuEVju3HqMlHBHWLgfz2lSzJwJRxQS2WCQ6RhllBME6m9winGxCs&usqp=CAU">
 
 <h1 align="center">Hi 👋, I'm Pradip Chaurel</h1>
 <h3 align="center">A passionate Software Engineer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fqph.cf2.quoracdn.net%2Fmain-qimg-c7f8b1214b6d3d01b698819c4d677ab3&imgrefurl=https%3A%2F%2Fwww.quora.com%2FIs-contributing-to-GitHub-projects-the-only-way-a-newbie-programmer-can-get-a-job&tbnid=FZf3cAJgHlP_1M&vet=10CEsQMyiDAWoXChMIuPD2gt-U-gIVAAAAAB0AAAAAEAc..i&docid=o0jUzcuvbh7TNM&w=1400&h=900&q=animated%20image%20for%20github%20profile&ved=0CEsQMyiDAWoXChMIuPD2gt-U-gIVAAAAAB0AAAAAEAc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipchaurel&label=Profile%20views&color=0e75b6&style=flat" alt="pradipchaurel" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, Android Application Development**
 
-- 📫 How to reach me **chaurelpradip@gmail.x**
+- 📫 How to reach me **chaurelpradip@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
