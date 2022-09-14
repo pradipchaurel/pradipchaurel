@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradip Chaurel</h1>
-<h3 align="center">A passionate Software Engineer from Nepal</h3>
+<h2 align="center">A passionate Software Engineer from Nepal</h2>
 
 - 🔭 I’m currently working on **Android Development**
 
