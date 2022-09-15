@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@chaurel_pradip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chaurel_pradip" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pradip-chaurel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradip-chaurel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pradip-chaurel-6a68b321b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradip-chaurel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
