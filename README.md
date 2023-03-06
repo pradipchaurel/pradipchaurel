@@ -10,11 +10,11 @@
 
 
 
-- 🔭 I’m currently working on **Android Development**
+<!-- - 🔭 I’m currently working on **Android Development**
 
 - 🌱 I’m currently learning **Mobile Application Development**
 
-- 💬 Ask me about **Java, Android Application Development**
+- 💬 Ask me about **Java, Android Application Development**-->
 
 - 📫 How to reach me **chaurelpradip@gmail.com**
 
