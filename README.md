@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/@chaurel_pradip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chaurel_pradip" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pradip-chaurel-6a68b321b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradip-chaurel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/chaurelpradip?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/chaurelpradip?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chaurelpradip?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chaurelpradip" height="30" width="40" /></a>
 </p>
 
 
