@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pradip Chaurel</h1>
-<img align="centre" alt="coding" height="300" width="1000" src="![github_profile](https://github.com/pradipchaurel/pradipchaurel/assets/94631819/5fc272b3-b8c7-4ee0-ad5d-5f582468692c)
-">
+<img align="centre" alt="coding" height="300" width="1000" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4171367-Coding-Freak&psig=AOvVaw3XFyJQJo7H9MvkC2EPJHbo&ust=1708531472234000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPil8O2luoQDFQAAAAAdAAAAABAE">
 <!--<h3 align="center">A passionate Software Engineer from Nepal</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipchaurel&label=Profile%20views&color=0e75b6&style=flat" alt="pradipchaurel" /> </p>
