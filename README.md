@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Pradip Chaurel</h1>
+<h3 align="center">A Data Science Enthusiast</h3>
 <img align="centre" alt="coding" height="300" width="1000" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-<!--<h3 align="center">A Data Science Enthusiast</h3>-->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipchaurel&label=Profile%20views&color=0e75b6&style=flat" alt="pradipchaurel" /> </p>
 
